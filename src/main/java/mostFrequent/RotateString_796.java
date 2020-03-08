@@ -23,6 +23,14 @@ Method 2: One line code
  */
 
 public class RotateString796 {
+    /*
+    Method 1: Brutal force
+        时间复杂度：O()
+        空间复杂度：O()
+    Method 2: One line code
+        时间复杂度：O()
+        空间复杂度：O()
+    */
 
     public boolean rotateString(String A, String B) {
         if(A.length() != B.length()) return false;
